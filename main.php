@@ -4,7 +4,8 @@
     The class, DBConnection, creates the connection to the database specified in the .env file. 
     The .env file is parsed for the necessary variables in the constructor.
 
-    The class, Article, allows for the connection of an Article object to be saved to the database
+    The class, Article, allows for the connection of an Article object to be saved to the database using 
+    the save method.
 */
 
 class DBConnection 
